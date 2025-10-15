@@ -6,6 +6,6 @@
   </a>
 </p>
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-[![PyPI pyversions](https://pypi.python.org/pypi/pyTelegramBotAPI)](https://pypi.python.org/pypi/pyTelegramBotAPI)
+<img src="https://pypi-camo.freetls.fastly.net/10a19541c07f4cb9151aa31d8a18c9616591daf0/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f707954656c656772616d426f744150492e737667" alt="Supported Python versions">
