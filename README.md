@@ -1,1 +1,1 @@
-# telegram_support_bot
+# telegram-support-bot
